@@ -57,8 +57,6 @@
 
 <div align="center">
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshavardhankumar29&theme=tokyonight" alt="GitHub Streak" height="150px" />
-  
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=harshavardhankumar29&radius=16&theme=react-dark" alt="Contribution Graph" height="200px"/>
 </div>
 
