@@ -11,7 +11,6 @@
 
 # 🌟 About Me
 
-
 - 🎓 **CSE** | Lovely Professional University  
 - 🤖 Building creative solutions with **MERN**  
 - 🌱 Always curious about emerging technologies
