@@ -117,22 +117,10 @@ const harsha = {
 
 ---
 
-## 🐍 Contribution Snake
+<!-- Snake Game Repo View -->
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/harshavardhankumar29/harshavardhankumar29/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/harshavardhankumar29/harshavardhankumar29/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/harshavardhankumar29/harshavardhankumar29/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
-
----
-
-## 🎨 Profile 3D Contribution
-
-<div align="center">
-  <img src="https://github-profile-3d-contrib.vercel.app/api?username=harshavardhankumar29&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="3D Contribution Graph"/>
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
 ---
@@ -143,7 +131,7 @@ const harsha = {
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 
-![Visitor Count](https://visitcount.itsvg.in/api?id=harshavardhankumar29&label=Profile%20Views&color=3&icon=5&pretty=true)
+
 
 **"Code is like humor. When you have to explain it, it's bad."** – Cory House
 
